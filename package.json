@@ -1,0 +1,21 @@
+{
+  "name": "hall-ticket-guide-ai",
+  "version": "0.1.0",
+  "description": "Hall Ticket Guide AI - SNJB Student Help Centre",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "lint": "eslint src --ext js,jsx"
+  },
+  "dependencies": {
+    "framer-motion": "^14.3.0",
+    "react": "^19.3.1",
+    "react-dom": "^19.3.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "vite": "^5.4.21"
+  }
+}

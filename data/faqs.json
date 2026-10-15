@@ -1,0 +1,142 @@
+[
+  {
+    "id": "demo-faq-001",
+    "question": "How do I download my hall ticket?",
+    "answer": "To download your hall ticket, visit the official SNJB examination portal announced by the Examination Cell. Log in with your PRN/seat number and password, navigate to the Hall Ticket section, verify your details, and download. Print at least two copies. Check the latest official notice for the exact portal URL and release timeline.",
+    "category": "download",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-002",
+    "question": "My hall ticket is unavailable. What should I do?",
+    "answer": "First, check the official release notice to confirm hall tickets have been released for your examination. Verify your examination form was submitted and fees paid. Clear browser cache or try a different browser. If the issue persists, contact the Examination Cell at principalcoe@snjb.org or +91 2556 253750. Do not share your login credentials with anyone.",
+    "category": "troubleshooting",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-003",
+    "question": "What documents do I need for the exam?",
+    "answer": "General guidance: hall ticket (printed, two copies recommended), valid photo ID (Aadhar, PAN, driving license, or college ID), permitted stationery (blue/black pens, pencils, eraser), calculator if allowed for your subject, transparent water bottle. No electronic devices or smartwatches. Confirm specific requirements with your official examination notice.",
+    "category": "checklist",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-004",
+    "question": "How do I contact the examination office?",
+    "answer": "SNJB Examination Cell / COE Desk: Email principalcoe@snjb.org, Phone +91 2556 253750. Office at SNJB College of Engineering. Website: https://snjb.org/engineering/exam-cell/coe-desk. Typical hours Monday-Friday 10:00 AM - 5:00 PM (confirm current hours). Keep your PRN/seat number ready when contacting them.",
+    "category": "official-help",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-005",
+    "question": "When will hall tickets be released?",
+    "answer": "Hall ticket release dates are announced through official examination notices from the SNJB Examination Cell. Check the latest notice on the SNJB website or examination portal. Release timelines vary by examination and academic programme. This information must be verified from current official sources.",
+    "category": "download",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-006",
+    "question": "What if my details are wrong on the hall ticket?",
+    "answer": "If you find incorrect personal details (name, photograph, subjects) on your hall ticket, contact the Examination Cell immediately at principalcoe@snjb.org or +91 2556 253750. There is typically a correction process with a deadline before the examination. Do not attempt to modify the hall ticket yourself.",
+    "category": "corrections",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-007",
+    "question": "I cannot log in to the hall ticket portal.",
+    "answer": "Verify you are using the correct portal URL from the latest official notice. Use your PRN/seat number and password. Clear browser cache, try incognito mode, or a different browser. Ensure caps lock is off. If credentials are forgotten, use the portal's password reset or contact the Examination Cell for assistance.",
+    "category": "troubleshooting",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-008",
+    "question": "What is the process for correcting my name on the hall ticket?",
+    "answer": "Name corrections must be requested through the Examination Cell before the published deadline. Submit a written application with supporting documents (e.g., Aadhar, marksheet). The process and deadline are announced in official notices. Contact principalcoe@snjb.org for the current procedure and required documents.",
+    "category": "corrections",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-009",
+    "question": "Can someone else collect my hall ticket?",
+    "answer": "Hall tickets are typically downloaded electronically by the student from the portal. If physical collection is required, check the specific instructions in the official examination notice. Authorization letters and ID proof may be required. Confirm the current procedure with the Examination Cell.",
+    "category": "download",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "demo-faq-010",
+    "question": "What if I lose my hall ticket on exam day?",
+    "answer": "Contact the exam centre superintendent immediately. You may need to provide identity verification and the Examination Cell may issue a duplicate. Keep a digital copy on your phone as backup. Always print at least two copies in advance. The Examination Cell (principalcoe@snjb.org) can advise on emergency procedures.",
+    "category": "troubleshooting",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  }
+]

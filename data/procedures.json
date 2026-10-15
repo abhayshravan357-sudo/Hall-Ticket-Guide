@@ -1,0 +1,115 @@
+[
+  {
+    "id": "proc-001",
+    "title": "Hall Ticket Download Procedure",
+    "category": "download",
+    "steps": [
+      "Check the official examination notice for hall ticket release announcement",
+      "Visit the official portal URL provided in the notice",
+      "Log in using PRN/seat number and password",
+      "Navigate to 'Hall Ticket' or 'Download Hall Ticket' section",
+      "Verify all personal details (name, PRN, photograph, subjects, exam centre)",
+      "Download the hall ticket PDF",
+      "Print at least two copies on A4 paper",
+      "Keep a digital backup on your phone"
+    ],
+    "prerequisites": [
+      "Examination form submitted and approved",
+      "Examination fees paid in full",
+      "Hall tickets officially released for your examination"
+    ],
+    "notes": "The exact portal URL and release date vary by examination. Always refer to the latest official notice from the SNJB Examination Cell.",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "proc-002",
+    "title": "Hall Ticket Issue Troubleshooting",
+    "category": "troubleshooting",
+    "steps": [
+      "Confirm hall tickets have been released via official notice",
+      "Verify examination form status (submitted, approved, fees paid)",
+      "Clear browser cache and cookies",
+      "Try incognito/private browsing mode",
+      "Try a different browser (Chrome, Firefox, Edge)",
+      "Verify correct PRN/seat number and password",
+      "Check internet connection",
+      "Contact Examination Cell if issue persists"
+    ],
+    "common_issues": [
+      "Portal not yet open / hall tickets not released",
+      "Examination form pending or fees unpaid",
+      "Incorrect login credentials",
+      "Browser cache/cookie issues",
+      "Portal maintenance or high traffic"
+    ],
+    "escalation": "Email: principalcoe@snjb.org | Phone: +91 2556 253750",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "proc-003",
+    "title": "Exam Day Preparation Checklist",
+    "category": "checklist",
+    "items": [
+      { "text": "Hall ticket printed (two copies)", "required": true },
+      { "text": "Valid photo ID (Aadhar/PAN/Driving License/College ID)", "required": true },
+      { "text": "Exam centre location confirmed, route planned", "required": true },
+      { "text": "Reporting time noted (arrive 30+ minutes early)", "required": true },
+      { "text": "Blue/black ballpoint pens (2+)", "required": true },
+      { "text": "Pencils, eraser, sharpener", "required": false },
+      { "text": "Calculator (only if permitted for subject)", "required": false },
+      { "text": "Transparent water bottle (no labels)", "required": false },
+      { "text": "No mobile phone, smartwatch, or electronic devices", "required": true },
+      { "text": "No unauthorised notes or materials", "required": true }
+    ],
+    "notes": "This is general guidance. Confirm specific requirements with your official examination notice and hall ticket instructions. Requirements may vary by examination and subject.",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  },
+  {
+    "id": "proc-004",
+    "title": "Detail Correction Process",
+    "category": "corrections",
+    "steps": [
+      "Identify the error on your hall ticket (name, photo, subjects, etc.)",
+      "Check the official notice for correction deadline and procedure",
+      "Prepare required supporting documents (Aadhar, marksheet, etc.)",
+      "Submit written application to Examination Cell",
+      "Follow up for confirmation before examination"
+    ],
+    "common_corrections": [
+      "Name spelling correction",
+      "Photograph replacement",
+      "Subject code correction",
+      "Exam centre change request"
+    ],
+    "contact": "principalcoe@snjb.org | +91 2556 253750",
+    "source_ids": ["source-001"],
+    "status": "draft",
+    "last_verified": null,
+    "applicability": {
+      "programme": "unconfirmed",
+      "academic_year": "unconfirmed",
+      "examination": "unconfirmed"
+    }
+  }
+]
